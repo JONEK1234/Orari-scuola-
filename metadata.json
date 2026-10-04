@@ -1,0 +1,7 @@
+{
+  "name": "Libri & Orario Scolastico - Classe 3A",
+  "description": "App scolastica minimalista per visualizzare i libri di testo e scoprire istantaneamente i libri da mettere nello zaino in base all'orario scolastico della Classe 3A.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
